@@ -1,0 +1,8 @@
+C:\Users\dev\source\repos\Detect-DomainAdmin-Change\bin\Debug\Detect-DomainAdmin-Change.exe.config
+C:\Users\dev\source\repos\Detect-DomainAdmin-Change\bin\Debug\Detect-DomainAdmin-Change.exe
+C:\Users\dev\source\repos\Detect-DomainAdmin-Change\bin\Debug\Detect-DomainAdmin-Change.pdb
+C:\Users\dev\source\repos\Detect-DomainAdmin-Change\obj\Debug\Detect-DomainAdmin-Change.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\Detect-DomainAdmin-Change\obj\Debug\Detect-DomainAdmin-Change.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\source\repos\Detect-DomainAdmin-Change\obj\Debug\Detect-DomainAdmin-Change.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Detect-DomainAdmin-Change\obj\Debug\Detect-DomainAdmin-Change.exe
+C:\Users\dev\source\repos\Detect-DomainAdmin-Change\obj\Debug\Detect-DomainAdmin-Change.pdb
